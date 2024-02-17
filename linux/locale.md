@@ -1,4 +1,4 @@
-# LINUX
+# locale settings
 
 Reconfigure locale:
 ```
